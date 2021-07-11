@@ -1,18 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@200;300;400;600;700&display=swap');
 :root{
     --green: #27ae60;
-    --black: #2c2c54;
-    
-/*     --green: #0f0c29;  
-    --green:-webkit-linear-gradient(to right, #24243e, #302b63, #0f0c29);  
-    --green: linear-gradient(to right, #24243e, #302b63, #0f0c29); 
-
-    --black: #3C3B3F;  
-    --black:--green: -webkit-linear-gradient(to right, #605C3C, #3C3B3F);  
-    --black: linear-gradient(to right, #605C3C, #3C3B3F); 
-     */
-    
-    
+    --black: #2c2c54;  
 }
 
 
