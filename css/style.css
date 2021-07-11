@@ -1,9 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@200;300;400;600;700&display=swap');
 :root{
-    --green: lightseagreen;
+    --green: #27ae60;
     --black: #2c2c54;
     
-    /* --green: #0f0c29;  
+/*     --green: #0f0c29;  
     --green:-webkit-linear-gradient(to right, #24243e, #302b63, #0f0c29);  
     --green: linear-gradient(to right, #24243e, #302b63, #0f0c29); 
 
@@ -77,13 +77,13 @@ section{
     padding: 2rem 9%;
 }
  .logo{
-    color: rgba(231, 17, 17, 0.788);
+    color: var(--black);
     font-size: 3rem;
     font-weight: bolder;
 }
  .logo i{
     padding-right: .5rem;
-    color: black;
+    color: var(--green);
 }
 .header-1 .search-box-container{
     display: flex;
